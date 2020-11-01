@@ -17,11 +17,11 @@ I'm Niek, a full-stack developer
     <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/crescoinnovations/icofy/issues/1) in [crescoinnovations/icofy](https://github.com/crescoinnovations/icofy)
-2. 🎉 Merged PR [#8](https://github.com//basvandriel/basvandriel.github.io/pull/8) in [basvandriel/basvandriel.github.io](https://github.com//basvandriel/basvandriel.github.io)
-3. 🎉 Merged PR [#9](https://github.com//basvandriel/basvandriel.github.io/pull/9) in [basvandriel/basvandriel.github.io](https://github.com//basvandriel/basvandriel.github.io)
-4. 🎉 Merged PR [#7](https://github.com//basvandriel/basvandriel.github.io/pull/7) in [basvandriel/basvandriel.github.io](https://github.com//basvandriel/basvandriel.github.io)
-5. 🎉 Merged PR [#4](https://github.com//basvandriel/basvandriel.github.io/pull/4) in [basvandriel/basvandriel.github.io](https://github.com//basvandriel/basvandriel.github.io)
+1. 🗣 Commented on [#335](https://github.com/DigitalExcellence/dex-frontend/issues/335) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
+2. 💪 Opened PR [#335](https://github.com/DigitalExcellence/dex-frontend/pull/335) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
+3. ❗️ Opened issue [#334](https://github.com/DigitalExcellence/dex-frontend/issues/334) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
+4. ❗️ Opened issue [#332](https://github.com/DigitalExcellence/dex-frontend/issues/332) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
+5. 💪 Opened PR [#315](https://github.com/DigitalExcellence/dex-frontend/pull/315) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
 <!--END_SECTION:activity-->
 </details>
 <details>
