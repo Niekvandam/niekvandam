@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Niek, a full-stack developer
+I'm Niek, a full-stack developer. Focussing on algorithmic challenges, crypto trading and neural networks.
 
 #### 📩 Connect with me
 
