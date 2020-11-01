@@ -14,13 +14,8 @@ I'm Niek, a full-stack developer
 
 <details>
     <summary>⚡ Recent Github Activity</summary>
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/crescoinnovations/icofy/issues/1) in [crescoinnovations/icofy](https://github.com/crescoinnovations/icofy)
-2. 🎉 Merged PR [#8](https://github.com//basvandriel/basvandriel.github.io/pull/8) in [basvandriel/basvandriel.github.io](https://github.com//basvandriel/basvandriel.github.io)
-3. 🎉 Merged PR [#9](https://github.com//basvandriel/basvandriel.github.io/pull/9) in [basvandriel/basvandriel.github.io](https://github.com//basvandriel/basvandriel.github.io)
-4. 🎉 Merged PR [#7](https://github.com//basvandriel/basvandriel.github.io/pull/7) in [basvandriel/basvandriel.github.io](https://github.com//basvandriel/basvandriel.github.io)
-5. 🎉 Merged PR [#4](https://github.com//basvandriel/basvandriel.github.io/pull/4) in [basvandriel/basvandriel.github.io](https://github.com//basvandriel/basvandriel.github.io)
-<!--END_SECTION:activity-->
+    <!--START_SECTION:activity-->
+    <!--END_SECTION:activity-->
 </details>
 <details>
   <summary>⚡ Github Stats</summary>
