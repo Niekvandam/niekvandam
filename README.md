@@ -11,10 +11,11 @@ I'm Niek, a full-stack developer
 <br/>
 
 ---
+### :zap: Recent Activity
 
-<details>
-    <summary>⚡ Recent Github Activity</summary>
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 </details>
 <details>
   <summary>⚡ Github Stats</summary>
