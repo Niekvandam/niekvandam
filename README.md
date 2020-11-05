@@ -17,11 +17,11 @@ I'm Niek, a full-stack developer. Focussing on algorithmic challenges, crypto tr
     <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#315](https://github.com/DigitalExcellence/dex-frontend/issues/315) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
-2. 🗣 Commented on [#335](https://github.com/DigitalExcellence/dex-frontend/issues/335) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
-3. 💪 Opened PR [#335](https://github.com/DigitalExcellence/dex-frontend/pull/335) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
-4. ❗️ Opened issue [#334](https://github.com/DigitalExcellence/dex-frontend/issues/334) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
-5. ❗️ Opened issue [#332](https://github.com/DigitalExcellence/dex-frontend/issues/332) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
+1. 🎉 Merged PR [#2](https://github.com/Niekvandam/SolarPowerPOC/pull/2) in [Niekvandam/SolarPowerPOC](https://github.com/Niekvandam/SolarPowerPOC)
+2. 💪 Opened PR [#2](https://github.com/Niekvandam/SolarPowerPOC/pull/2) in [Niekvandam/SolarPowerPOC](https://github.com/Niekvandam/SolarPowerPOC)
+3. 🎉 Merged PR [#1](https://github.com/Niekvandam/SolarPowerPOC/pull/1) in [Niekvandam/SolarPowerPOC](https://github.com/Niekvandam/SolarPowerPOC)
+4. 💪 Opened PR [#1](https://github.com/Niekvandam/SolarPowerPOC/pull/1) in [Niekvandam/SolarPowerPOC](https://github.com/Niekvandam/SolarPowerPOC)
+5. 🗣 Commented on [#315](https://github.com/DigitalExcellence/dex-frontend/issues/315) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
 <!--END_SECTION:activity-->
 </details>
 <details>
