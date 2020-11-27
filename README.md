@@ -17,11 +17,11 @@ I'm Niek, a full-stack developer. Focussing on algorithmic challenges, crypto tr
     <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#364](https://github.com/DigitalExcellence/dex-frontend/issues/364) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
-2. 💪 Opened PR [#363](https://github.com/DigitalExcellence/dex-frontend/pull/363) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
-3. 🗣 Commented on [#335](https://github.com/DigitalExcellence/dex-frontend/issues/335) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
-4. 🎉 Merged PR [#2](https://github.com/Niekvandam/SolarPowerPOC/pull/2) in [Niekvandam/SolarPowerPOC](https://github.com/Niekvandam/SolarPowerPOC)
-5. 💪 Opened PR [#2](https://github.com/Niekvandam/SolarPowerPOC/pull/2) in [Niekvandam/SolarPowerPOC](https://github.com/Niekvandam/SolarPowerPOC)
+1. ❗️ Closed issue [#313](https://github.com/DigitalExcellence/dex-frontend/issues/313) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
+2. ❗️ Opened issue [#364](https://github.com/DigitalExcellence/dex-frontend/issues/364) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
+3. 💪 Opened PR [#363](https://github.com/DigitalExcellence/dex-frontend/pull/363) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
+4. 🗣 Commented on [#335](https://github.com/DigitalExcellence/dex-frontend/issues/335) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
+5. 🎉 Merged PR [#2](https://github.com/Niekvandam/SolarPowerPOC/pull/2) in [Niekvandam/SolarPowerPOC](https://github.com/Niekvandam/SolarPowerPOC)
 <!--END_SECTION:activity-->
 </details>
 <details>
