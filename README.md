@@ -17,11 +17,11 @@ I'm Niek, a full-stack developer. Focussing on algorithmic challenges, crypto tr
     <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#412](https://github.com/DigitalExcellence/dex-frontend/pull/412) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
-2. ❗️ Closed issue [#411](https://github.com/DigitalExcellence/dex-frontend/issues/411) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
-3. 💪 Opened PR [#412](https://github.com/DigitalExcellence/dex-frontend/pull/412) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
-4. 🎉 Merged PR [#406](https://github.com/DigitalExcellence/dex-frontend/pull/406) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
-5. ❗️ Closed issue [#405](https://github.com/DigitalExcellence/dex-frontend/issues/405) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
+1. 🗣 Commented on [#332](https://github.com/DigitalExcellence/dex-frontend/issues/332) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
+2. 🎉 Merged PR [#412](https://github.com/DigitalExcellence/dex-frontend/pull/412) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
+3. ❗️ Closed issue [#411](https://github.com/DigitalExcellence/dex-frontend/issues/411) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
+4. 💪 Opened PR [#412](https://github.com/DigitalExcellence/dex-frontend/pull/412) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
+5. 🎉 Merged PR [#406](https://github.com/DigitalExcellence/dex-frontend/pull/406) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
 <!--END_SECTION:activity-->
 </details>
 <details>
