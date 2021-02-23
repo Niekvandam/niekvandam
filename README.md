@@ -17,11 +17,11 @@ I'm Niek, a full-stack developer. Focussing on algorithmic challenges, crypto tr
     <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#332](https://github.com/DigitalExcellence/dex-frontend/issues/332) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
-2. 🎉 Merged PR [#412](https://github.com/DigitalExcellence/dex-frontend/pull/412) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
-3. ❗️ Closed issue [#411](https://github.com/DigitalExcellence/dex-frontend/issues/411) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
-4. 💪 Opened PR [#412](https://github.com/DigitalExcellence/dex-frontend/pull/412) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
-5. 🎉 Merged PR [#406](https://github.com/DigitalExcellence/dex-frontend/pull/406) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
+1. ❗️ Opened issue [#5](https://github.com/OR-WindPredicition/WindPredictionAPI/issues/5) in [OR-WindPredicition/WindPredictionAPI](https://github.com/OR-WindPredicition/WindPredictionAPI)
+2. 🗣 Commented on [#332](https://github.com/DigitalExcellence/dex-frontend/issues/332) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
+3. 🎉 Merged PR [#412](https://github.com/DigitalExcellence/dex-frontend/pull/412) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
+4. ❗️ Closed issue [#411](https://github.com/DigitalExcellence/dex-frontend/issues/411) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
+5. 💪 Opened PR [#412](https://github.com/DigitalExcellence/dex-frontend/pull/412) in [DigitalExcellence/dex-frontend](https://github.com/DigitalExcellence/dex-frontend)
 <!--END_SECTION:activity-->
 </details>
 <details>
