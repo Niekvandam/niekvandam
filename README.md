@@ -17,11 +17,11 @@ I'm Niek, a full-stack developer. Focussing on algorithmic challenges, crypto tr
     <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/OR-WindPredicition/WindPredictionAPI/issues/5) in [OR-WindPredicition/WindPredictionAPI](https://github.com/OR-WindPredicition/WindPredictionAPI)
-2. 🗣 Commented on [#5](https://github.com/OR-WindPredicition/WindPredictionAPI/issues/5) in [OR-WindPredicition/WindPredictionAPI](https://github.com/OR-WindPredicition/WindPredictionAPI)
-3. 🗣 Commented on [#3](https://github.com/OR-WindPredicition/WindPredictionAPI/issues/3) in [OR-WindPredicition/WindPredictionAPI](https://github.com/OR-WindPredicition/WindPredictionAPI)
-4. 🗣 Commented on [#7](https://github.com/OR-WindPredicition/WindPredictionAPI/issues/7) in [OR-WindPredicition/WindPredictionAPI](https://github.com/OR-WindPredicition/WindPredictionAPI)
-5. ❗️ Opened issue [#5](https://github.com/OR-WindPredicition/WindPredictionAPI/issues/5) in [OR-WindPredicition/WindPredictionAPI](https://github.com/OR-WindPredicition/WindPredictionAPI)
+1. ❗️ Closed issue [#3](https://github.com/OR-WindPredicition/WindPredictionAPI/issues/3) in [OR-WindPredicition/WindPredictionAPI](https://github.com/OR-WindPredicition/WindPredictionAPI)
+2. ❗️ Closed issue [#5](https://github.com/OR-WindPredicition/WindPredictionAPI/issues/5) in [OR-WindPredicition/WindPredictionAPI](https://github.com/OR-WindPredicition/WindPredictionAPI)
+3. 🗣 Commented on [#5](https://github.com/OR-WindPredicition/WindPredictionAPI/issues/5) in [OR-WindPredicition/WindPredictionAPI](https://github.com/OR-WindPredicition/WindPredictionAPI)
+4. 🗣 Commented on [#3](https://github.com/OR-WindPredicition/WindPredictionAPI/issues/3) in [OR-WindPredicition/WindPredictionAPI](https://github.com/OR-WindPredicition/WindPredictionAPI)
+5. 🗣 Commented on [#7](https://github.com/OR-WindPredicition/WindPredictionAPI/issues/7) in [OR-WindPredicition/WindPredictionAPI](https://github.com/OR-WindPredicition/WindPredictionAPI)
 <!--END_SECTION:activity-->
 </details>
 <details>
