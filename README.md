@@ -18,10 +18,10 @@ I'm Niek, a full-stack developer. Focussing on algorithmic challenges, crypto tr
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#13](https://github.com/OR-WindPredicition/WindPredictionAPI/issues/13) in [OR-WindPredicition/WindPredictionAPI](https://github.com/OR-WindPredicition/WindPredictionAPI)
-2. ❗️ Closed issue [#19](https://github.com/OR-WindPredicition/WindPredictionAPI/issues/19) in [OR-WindPredicition/WindPredictionAPI](https://github.com/OR-WindPredicition/WindPredictionAPI)
-3. 🗣 Commented on [#19](https://github.com/OR-WindPredicition/WindPredictionAPI/issues/19) in [OR-WindPredicition/WindPredictionAPI](https://github.com/OR-WindPredicition/WindPredictionAPI)
-4. ❗️ Opened issue [#4](https://github.com/Quantified-Student/POCs/issues/4) in [Quantified-Student/POCs](https://github.com/Quantified-Student/POCs)
-5. 🗣 Commented on [#4](https://github.com/OR-WindPredicition/WindPredictionAPI/issues/4) in [OR-WindPredicition/WindPredictionAPI](https://github.com/OR-WindPredicition/WindPredictionAPI)
+2. 🗣 Commented on [#13](https://github.com/OR-WindPredicition/WindPredictionAPI/issues/13) in [OR-WindPredicition/WindPredictionAPI](https://github.com/OR-WindPredicition/WindPredictionAPI)
+3. ❗️ Closed issue [#19](https://github.com/OR-WindPredicition/WindPredictionAPI/issues/19) in [OR-WindPredicition/WindPredictionAPI](https://github.com/OR-WindPredicition/WindPredictionAPI)
+4. 🗣 Commented on [#19](https://github.com/OR-WindPredicition/WindPredictionAPI/issues/19) in [OR-WindPredicition/WindPredictionAPI](https://github.com/OR-WindPredicition/WindPredictionAPI)
+5. ❗️ Opened issue [#4](https://github.com/Quantified-Student/POCs/issues/4) in [Quantified-Student/POCs](https://github.com/Quantified-Student/POCs)
 <!--END_SECTION:activity-->
 </details>
 <details>
